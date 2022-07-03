@@ -1,5 +1,5 @@
 # Gas-Emissions-Analysis-and-dataset
-this project aims to analyse and gives insights about the gas  emission scenario in various cities of the world and creates a dataset for the selected city.
+this project aims to analyse and gives insights about the gas  emission scenario in various cities of the world and creates a dataset for the selected city between any time duration.
 <br>
 <p>Currently it can produce the dataset for the 20 cities given in the coordinates dictionary in the jupyter notebook. <br>
 emission dataset for any other city or a place can be created just by adding a key-value pair of the place name and it's coordinated and then use the df_compiler function.
